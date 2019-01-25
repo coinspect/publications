@@ -1,2 +1,2 @@
-# publications
-Coinspect Publications: audit reports and research.
+# Coinspect Publications
+Audit reports and research from Coinspect Security.
